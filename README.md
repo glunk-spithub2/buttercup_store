@@ -1,4 +1,6 @@
-# buttercup_store
+# About Buttercup Store
+
+## Intro
 
 Buttercup Store project, is an example payload used to demonstrate how Splunk can monitor your CI/CD process.
 
